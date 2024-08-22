@@ -1,0 +1,5 @@
+This past summer I had the priveledge of working in a Computational Biology lab under Dr. Rams and the task was to be able to take in a pdb and mrc file and ouput a new pdb file that would have the local resolution map that would be able to be represented in Pymol/Chimerax.
+
+Here is the link to the google Colabs notebook that we made! 
+
+https://colab.research.google.com/drive/1Oc1VqabE1zHVzl5sXMJEbc9qcAZ2QbQB#scrollTo=v_JOsLcuK7j9&uniqifier=1
